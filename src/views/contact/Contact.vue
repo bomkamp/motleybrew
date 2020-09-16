@@ -61,6 +61,7 @@
               >
                 <GitHubIcon class="github-icon" />
                 <br />Design by Greg Bomkamp
+                <br /><a href="https://gregbomkamp.dev/">gregbomkamp.dev</a>
               </a>
             </v-row>
           </div>
