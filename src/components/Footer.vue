@@ -1,12 +1,6 @@
 <template>
   <v-card flat tile class="text-center footer">
-    <v-card-text>
-      <v-btn v-for="icon in icons" :key="icon" class="mx-4 white--text" icon>
-        <v-icon size="24px">{{ icon }}</v-icon>
-      </v-btn>
-    </v-card-text>
-
-    <div class="banner-contact">
+    <div class="banner-contact mt-4 mb-1">
       <a href="https://www.instagram.com/motleybrew.coffee/" target="_blank">
         <InstragramIcon class="banner-icon" />
       </a>
@@ -31,14 +25,12 @@
 
 <script lang="ts">
 import { Component, Vue } from "vue-property-decorator";
-import GitHubIcon from "@/assets/images/github.svg?inline";
 import InstragramIcon from "@/assets/images/instagram.svg?inline";
 import EmailIcon from "@/assets/images/email.svg?inline";
 import FacebookIcon from "@/assets/images/facebook.svg?inline";
 
 @Component({
   components: {
-    GitHubIcon,
     EmailIcon,
     InstragramIcon,
     FacebookIcon,
@@ -58,9 +50,8 @@ export default class Footer extends Vue {
 .banner-icon
   width: 30px;
   height: 30px;
-  margin-left: 10px;
-  margin-right: 10px;
-  margin-bottom: 10px;
+  margin-left: 15px;
+  margin-right: 15px;
   vertical-align: align-self auto;
 
 .banner-icon path
