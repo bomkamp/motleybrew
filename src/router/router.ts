@@ -16,5 +16,5 @@ const routes: RouteConfig[] = [
 
 export const router: VueRouter = new VueRouter({
   routes,
-  mode: "history",
+  mode: "hash",
 });
