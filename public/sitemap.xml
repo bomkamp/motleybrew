@@ -4,8 +4,19 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
 <url>
-  <loc>https://motleybrewcoffee.com/</loc>
-  <lastmod>2020-09-15T12:29:30+00:00</lastmod>
+  <loc>https://motleybrewcinci.com/</loc>
+  <lastmod>2020-09-17T22:31:19+00:00</lastmod>
+</url>
+
+<url>
+  <loc>https://motleybrewcinci.com/contact</loc>
+  <lastmod>2020-09-17T22:31:19+00:00</lastmod>
+</url>
+
+<url>
+  <loc>https://motleybrewcinci.com/store</loc>
+  <lastmod>2020-09-17T22:31:19+00:00</lastmod>
 </url>
 </urlset>
