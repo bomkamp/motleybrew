@@ -45,7 +45,7 @@
               Directions:
               <br />
               <a
-                href="https://www.google.com/maps/dir//Mosaic+Cincinnati,+894+OH-28,+Milford,+OH+45150/@39.1921846,-84.2558828,20.17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x884101d60d651961:0x6da607b772eecc2b!2m2!1d-84.2559341!2d39.1921997!3e0"
+                href="https://www.google.com/maps/dir//Motley+Brew+Coffee,+894+OH-28,+Milford,+OH+45150/@39.1924374,-84.2907747,13z/data=!4m9!4m8!1m0!1m5!1m1!1s0x8840ff87655608bf:0xa973d80b9add01f3!2m2!1d-84.2557554!2d39.1923761!3e0"
                 >Google Maps</a
               >
             </div>
